@@ -1,16 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 
-"""
-================================================================================
-SYSTEM: Telegram Channel Violation Detection & Reporting AI
-VERSION: 6.0.0 ULTIMATE EDITION
-AUTHOR: AI Security System PRO
-DESCRIPTION: Advanced AI system for detecting violations in Telegram channels
-             and generating professional reports automatically
-             TARGET CHANNEL: https://t.me/+fClIA2SAPwk0MDBk
-================================================================================
-"""
 
 import asyncio
 import json
